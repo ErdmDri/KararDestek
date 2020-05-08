@@ -1,0 +1,2 @@
+# KararDestek
+KararDestekSistemi
